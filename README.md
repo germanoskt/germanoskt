@@ -5,7 +5,7 @@
 [![RIOTGAMES](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.leagueoflegends.com/pt-br/)
 [![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31nc34c3o4ccioqibygtqkz7qdaq)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=tokyonight)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red_icons=true)
 
 ## Tecnologias do dia a dia
 
