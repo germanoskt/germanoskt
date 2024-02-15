@@ -15,4 +15,4 @@
 
 </div><br/>
 
-### Interessado em como posso evoluir junto à tecnologia.
+### Interessado em como posso evoluir junto a tecnologia.
